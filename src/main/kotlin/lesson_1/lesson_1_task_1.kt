@@ -1,4 +1,6 @@
-fun main(args: Array<String>) {
+package lesson_1
+
+fun main() {
     val numberOfOrders: Int = 75
     val textThanking: String = "Спасибо за покупку!"
 }
